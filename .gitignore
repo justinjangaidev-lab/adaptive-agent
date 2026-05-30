@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.claude/
+saved_tools/
+generated_tools/*.py
+generated_tools/_registry.json
